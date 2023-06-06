@@ -25,14 +25,14 @@ Commands:
 
 ## Examples
 Examples are provided in the buy.js
-```
+
 ## Building
 
 Install Packages using
 ```batch
 build - packages.bat
 ```
-After installing packages 
+After installing packages
 ```batch
 setup.bat
 ```
